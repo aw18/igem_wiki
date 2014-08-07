@@ -1,1 +1,3 @@
-UBC iGEM wiki site 2014
+(c) UBC iGEM wiki site 2014
+=============================
+
